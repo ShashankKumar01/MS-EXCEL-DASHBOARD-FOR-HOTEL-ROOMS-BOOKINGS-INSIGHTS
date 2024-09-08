@@ -1,2 +1,8 @@
 # MS-EXCEL-DASHBOARD-FOR-HOTEL-ROOMS-BOOKINGS-INSIGHTS
-Cleaned the data and removed noise from data and got insights like why there are no recurring customers, how many customers were couples, singles or children etc. Made dashboard and used graphs and plots.
+In this project, I focused on cleaning and preprocessing the raw data to remove any noise or inconsistencies. This involved techniques such as handling missing values, removing duplicates, and addressing outliers. By applying these data cleansing methods, I was able to enhance the quality and reliability of the data, ensuring accurate insights could be drawn.
+
+One of the key insights I uncovered was the lack of recurring customers. I explored the reasons behind this phenomenon, analyzing factors such as customer demographics, purchasing patterns, and potential customer loyalty issues. Additionally, I categorized the customers into groups, such as couples, singles, and children, to gain a better understanding of the customer base and their unique needs and preferences.
+
+To effectively communicate these insights, I created a comprehensive dashboard utilizing various graphs and plots. This visual representation of the data allowed for a clear and concise presentation of the findings. The dashboard included features like bar charts, line graphs, and pie charts, which helped stakeholders easily interpret the data and identify areas for improvement or optimization.
+
+Overall, this project involved a multifaceted approach, combining data cleaning, analysis, and visualization to provide valuable insights that could inform business decisions and strategies. The attention to detail in data preprocessing, the depth of the analysis, and the effective presentation of the results showcased my skills in data-driven problem-solving and decision-making.
